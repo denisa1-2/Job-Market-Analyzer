@@ -14,7 +14,7 @@ A simple Python project that analyzes job market data from a CSV file using Pand
 
 ## Tech Stack
 
-- Pyhton
+- Python
 - Pandas
 - Matplotlib
 
@@ -55,9 +55,9 @@ python main.py
 
 The project generates:
 - console analysis
-- charts saved in the output folder
+- charts saved in the `output` folder
 
-## Exemple Data
+## Example Data
 
 ```csv
 title,location,salary,category
